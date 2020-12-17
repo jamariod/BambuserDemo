@@ -11,3 +11,6 @@ BambuserDemo app is a project created following Bambuser Live Streaming SDK docu
 
 
 ![connecting](https://user-images.githubusercontent.com/24234259/102548886-4bb85180-4089-11eb-8e23-fce9d1380a5e.PNG)
+
+
+![stop](https://user-images.githubusercontent.com/24234259/102548999-72768800-4089-11eb-9c70-26af474ec135.jpg)
